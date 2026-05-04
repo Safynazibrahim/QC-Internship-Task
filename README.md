@@ -43,8 +43,8 @@ Cypress tests:
 `automation/`
 
 Automated scenarios:
-- Login
-- Checkout
+- Login success
+- Login failure
 
 ---
 
